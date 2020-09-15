@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ManojMaven" duration-ms="42682" started-at="2020-09-15T04:27:26Z" finished-at="2020-09-15T04:28:08Z">
+    <groups>
+    </groups>
+    <test name="ManojTest" duration-ms="42682" started-at="2020-09-15T04:27:26Z" finished-at="2020-09-15T04:28:08Z">
+      <class name="myPack.Manoj">
+        <test-method status="PASS" signature="AddEmp()[pri:0, instance:myPack.Manoj@2752f6e2]" name="AddEmp" duration-ms="27525" started-at="2020-09-15T09:57:26Z" finished-at="2020-09-15T09:57:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddEmp -->
+        <test-method status="PASS" signature="DeleteEmp()[pri:0, instance:myPack.Manoj@2752f6e2]" name="DeleteEmp" duration-ms="1" started-at="2020-09-15T09:57:53Z" finished-at="2020-09-15T09:57:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteEmp -->
+        <test-method status="PASS" signature="EditEmp()[pri:0, instance:myPack.Manoj@2752f6e2]" name="EditEmp" duration-ms="2" started-at="2020-09-15T09:57:53Z" finished-at="2020-09-15T09:57:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditEmp -->
+        <test-method status="PASS" signature="VerifyLogin()[pri:0, instance:myPack.Manoj@2752f6e2]" name="VerifyLogin" duration-ms="15140" started-at="2020-09-15T09:57:53Z" finished-at="2020-09-15T09:58:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogin -->
+        <test-method status="PASS" signature="addLocation()[pri:0, instance:myPack.Manoj@2752f6e2]" name="addLocation" duration-ms="0" started-at="2020-09-15T09:58:08Z" finished-at="2020-09-15T09:58:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addLocation -->
+        <test-method status="PASS" signature="editLocation()[pri:0, instance:myPack.Manoj@2752f6e2]" name="editLocation" duration-ms="1" started-at="2020-09-15T09:58:08Z" finished-at="2020-09-15T09:58:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editLocation -->
+      </class> <!-- myPack.Manoj -->
+    </test> <!-- ManojTest -->
+  </suite> <!-- ManojMaven -->
+</testng-results>
